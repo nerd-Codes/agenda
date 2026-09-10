@@ -1,0 +1,17 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+app/build/
+.gradle-bootstrap/
+node_modules/
+*.py
+Decision LOG.md
+Idea DOC.md
+Requirements DOC.md
