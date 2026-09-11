@@ -99,6 +99,3 @@ Requires Android Studio Ladybug or newer, JDK 17+.
 
 ---
 
-## License
-
-MIT
